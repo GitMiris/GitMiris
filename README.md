@@ -1,4 +1,4 @@
-## Seja bem vindo(a) ao meu perfil, eu sou a Thamiris Ferreira 👋
+## Seja bem vindo(a) ao meu perfil 👋
 
 - 🔭 Desenvolvedora Backend
 - 🌱 Estudando Java, Python e SQL
