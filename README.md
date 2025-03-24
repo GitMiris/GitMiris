@@ -2,7 +2,7 @@
 
 - 🔭 Developer - Data & Analytics
 - 🌱 Aprimorando conhecimentos em: PySpark, Python e SQL
-- ⚡ Curiosidade: Já venci em 1º lugar o evento do dia da Inteligência Articial na Fatec
+- ⚡ Curiosidade: Já venci em 1º lugar o concurso do dia da Inteligência Articial na Fatec
 - 🚀 Databricks Certified 2X
 
   <div style="display: inline_block"><br>
