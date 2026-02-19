@@ -6,7 +6,12 @@
 
 #
 #### 🐍 Cursando:
+Curso de Python 3 do básico ao avançado - com projetos reais - Udemy
+
 https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+
+<img src="https://img-c.udemycdn.com/course/480x270/2411816_3802_4.jpg" width="150">
+
 #
 
 #### 📚 Leitura:
@@ -26,9 +31,9 @@ Credencial Badge 2:
 #
 #### ✨ Linguagens:
   <div style="display: inline_block"><br>
-  <img align="center" alt="Thami-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thami-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img src="https://teknedatalabs.com/wp-content/uploads/2023/10/pyspark.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY96BPkBqp2Z_gQdUVHpNh38YPdgP28F00yg&s" width="100">
+  <img src="https://teknedatalabs.com/wp-content/uploads/2023/10/pyspark.png" width="120">
   </div>
   
   ##
