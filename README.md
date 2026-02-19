@@ -1,7 +1,9 @@
-## Seja bem vindo(a) ao meu perfil 👋
+## Sobre mim:
 
 - 🔭 Developer - Data & Analytics
-- 🌱 Aprimorando conhecimentos em: PySpark, Python e SQL
+- 🌱 Aprimorando conhecimentos em Dados, com foco em Python.
+- 🐍 Cursando: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+- 📚 Leitura: Pense em Python como um Cientista da Computação
 - ⚡ Curiosidade: Já venci em 1º lugar o concurso do dia da Inteligência Articial na Fatec
 - 🚀 Databricks Certified 2X
 
