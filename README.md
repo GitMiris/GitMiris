@@ -1,7 +1,7 @@
 ## Sobre mim:
 
 - 💻 Developer - Data & Analytics.
-- 🎲 Aprimorando conhecimentos em Dados, com foco em Python.
+- 🎲 Em aprimoramento constante em Dados e IA.
 - ⚡ Curiosidade: Já venci em 1º lugar o concurso do dia da Inteligência Articial na Fatec.
 
 #
